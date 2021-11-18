@@ -1,0 +1,32 @@
+{
+  "message": "Bienvenue sur Bikeshop4711",
+  "titleText": "Nous sommes un petit Bikeshop dans le Brandebourg an der Havel.",
+  "cart": "Panier",
+  "productArea": "Secteur des produits",
+  "currency": "€",
+  "languageSwitcher": {
+    "en":"Anglais (en)",
+    "fr":"Français (fr)",
+    "de":"Allemand (de)",
+    "eu":"Ta Langue (eu)"
+  },
+  "productSizeBike": "Pouces",
+  "productSizePart": "mm",
+  "productSizeOneSize": "Taille unique",
+  "products":{
+    "product1": {
+      "productName": "Vélo ultra rapide",
+      "productDesc": "Belle moto de piste avec une selle confortable.",
+      "productType": "Bike"  ,
+      "productSize": "28",
+      "productPrice": "435,99"
+    },
+    "product2": {
+      "productName": "Vélo ultra lent",
+      "productDesc": "Un trajet calme, une visite calme.",
+      "productType": "Bike",
+      "productSize": "26",
+      "productPrice": "657,08"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "message": "Herzlich Willkommen im Bikeshop4711",
+    "titleText": "Wir sind ein kleiner Fahrradladen in Brandenburg an der Havel.",
+    "cart": "Einkaufswagen",
+    "productArea": "Produktbereich",
+    "currency": "€",
+    "languageSwitcher": {
+      "en":"Englisch (en)",
+      "fr":"Französisch (fr)",
+      "de":"Deutsch (de)",
+      "eu":"Deine Sprache (eu)"
+    },
+    "productSizeBike": "Zoll",
+    "productSizePart": "mm",
+    "productSizeOneSize": "Einheitsgröße",
+    "products":{
+        "product1": {
+          "productName1": "Fahrrad Ultra Schnell",
+          "productDesc1": "Tolles Bahnenrad mit angenehmen Sattel.",
+          "productType1": "Bike",
+          "productSize1": "28",
+          "productPrice1": "435,99"
+        },
+        "product2": {
+          "productName2": "Fahrrad Ultra Langsam",
+          "productDesc2": "Entspannte Fahrt, entspannte Tour.",
+          "productType2": "Bike",
+          "productSize2": "26",
+          "productPrice2": "657,08"
+        }
+      }
+  }
+  

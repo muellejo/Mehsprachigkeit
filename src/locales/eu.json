@@ -1,0 +1,32 @@
+{
+  "message": "Welcome to Bikeshop4711",
+  "titleText": "We are a little Bikeshop in Brandenburg an der Havel.",
+  "cart": "cart",
+  "productArea": "Product area",
+  "currency": "$",
+  "languageSwitcher": {
+    "en":"English (en)",
+    "fr":"French (fr)",
+    "de":"German (de)",
+    "eu":"Your Language (eu)"
+  },
+  "productSizeBike": "inch",
+  "productSizePart": "mm",
+  "productSizeOneSize": "one size",
+  "products":{
+    "product1": {
+      "productName1": "Bike Ultra Fast",
+      "productDesc1": "Nice track bike with comfortable seat.",
+      "productType1": "Bike" ,
+      "productSize1": "28",
+      "productPrice1": "435,99"
+    },
+    "product2": {
+      "productName2": "Bike Ultra Slow",
+      "productDesc2": "Calm ride, calm tour.",
+      "productType2": "Bike",
+      "productSize2": "26",
+      "productPrice2": "657,08"
+    }
+  }
+}
